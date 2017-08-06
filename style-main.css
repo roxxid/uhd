@@ -1,15 +1,67 @@
-.page-header h1 {
-    font-size: 4em;
-}
-
-.panel-heading-name {
-    font-size: 2em;
-    color: white;
-}
-
-.panel-heading-date {
-    background-color: yellow;
-    font-size: 15px;
-    color: black;
-    padding: 5px;
-}
+    .page-header h1 {
+        font-size: 4em;
+    }
+    
+    .panel-heading-name {
+        font-size: 2em;
+        color: white;
+    }
+    
+    .panel-heading-date {
+        background-color: yellow;
+        font-size: 15px;
+        color: black;
+        padding: 5px;
+    }
+    
+    #icons {
+        min-width: 450px;
+    }
+    
+    .form-control_1 {
+        background-color: #fff;
+        background-image: none;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+        color: #555;
+        display: block;
+        font-size: 50px;
+        height: 80px;
+        line-height: 1.42857;
+        padding: 6px 12px;
+        width: 100%;
+        margin-top: 5%;
+    }
+    
+    .form-control_2 {
+        background-color: #fff;
+        background-image: none;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+        color: #555;
+        display: block;
+        font-size: 25px;
+        height: 140px;
+        line-height: 1.42857;
+        margin-top: 5%;
+        padding: 6px 12px;
+        width: 100%;
+    }
+    
+    .form-control_3 {
+        background-color: #fff;
+        background-image: none;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+        color: #555;
+        display: block;
+        font-size: 25px;
+        height: 120px;
+        line-height: 1.42857;
+        margin-top: 5%;
+        padding: 6px 12px;
+        width: 100%;
+    }
