@@ -2,7 +2,14 @@
     font-size: 4em;
 }
 
-panel-heading {
+.panel-heading-name {
+    font-size: 2em;
     color: white;
-    font-size: 60px;
+}
+
+.panel-heading-date {
+    background-color: yellow;
+    font-size: 15px;
+    color: black;
+    padding: 5px;
 }
